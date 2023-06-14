@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/gymwebsite/static/css/main.fd87bc2a.chunk.css",
+    "main.js": "/gymwebsite/static/js/main.d8b0ec10.chunk.js",
+    "main.js.map": "/gymwebsite/static/js/main.d8b0ec10.chunk.js.map",
+    "runtime-main.js": "/gymwebsite/static/js/runtime-main.0291cc4c.js",
+    "runtime-main.js.map": "/gymwebsite/static/js/runtime-main.0291cc4c.js.map",
+    "static/js/2.64fc389d.chunk.js": "/gymwebsite/static/js/2.64fc389d.chunk.js",
+    "static/js/2.64fc389d.chunk.js.map": "/gymwebsite/static/js/2.64fc389d.chunk.js.map",
+    "index.html": "/gymwebsite/index.html",
+    "precache-manifest.31f9b19f5ee925ffa7137ed97a65cc43.js": "/gymwebsite/precache-manifest.31f9b19f5ee925ffa7137ed97a65cc43.js",
+    "service-worker.js": "/gymwebsite/service-worker.js",
+    "static/css/main.fd87bc2a.chunk.css.map": "/gymwebsite/static/css/main.fd87bc2a.chunk.css.map",
+    "static/js/2.64fc389d.chunk.js.LICENSE.txt": "/gymwebsite/static/js/2.64fc389d.chunk.js.LICENSE.txt",
+    "static/media/bigOfferBg.webp": "/gymwebsite/static/media/bigOfferBg.b969262b.webp",
+    "static/media/forBoys.png": "/gymwebsite/static/media/forBoys.fe8b35e7.png",
+    "static/media/forGirl.png": "/gymwebsite/static/media/forGirl.6f60e0b8.png",
+    "static/media/galleryFive.png": "/gymwebsite/static/media/galleryFive.688011ae.png",
+    "static/media/galleryFour.png": "/gymwebsite/static/media/galleryFour.7ee3bdc1.png",
+    "static/media/galleryOne.png": "/gymwebsite/static/media/galleryOne.dabd4b71.png",
+    "static/media/gallerySix.png": "/gymwebsite/static/media/gallerySix.11dc41bb.png",
+    "static/media/galleryThree.png": "/gymwebsite/static/media/galleryThree.27bfe886.png",
+    "static/media/galleryTwo.png": "/gymwebsite/static/media/galleryTwo.ee2b9bbb.png",
+    "static/media/iconFour.svg": "/gymwebsite/static/media/iconFour.6205017e.svg",
+    "static/media/iconOne.svg": "/gymwebsite/static/media/iconOne.d0f9843c.svg",
+    "static/media/iconThree.svg": "/gymwebsite/static/media/iconThree.c4c60cd2.svg",
+    "static/media/iconTwo.svg": "/gymwebsite/static/media/iconTwo.f8adc4e0.svg",
+    "static/media/mainBgOne.png": "/gymwebsite/static/media/mainBgOne.2cc645e7.png",
+    "static/media/offerBg.png": "/gymwebsite/static/media/offerBg.ce06d1b1.png",
+    "static/media/teamOne.png": "/gymwebsite/static/media/teamOne.69074cb0.png",
+    "static/media/teamThree.png": "/gymwebsite/static/media/teamThree.0f869951.png",
+    "static/media/teamTwo.png": "/gymwebsite/static/media/teamTwo.2649ade7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0291cc4c.js",
+    "static/js/2.64fc389d.chunk.js",
+    "static/css/main.fd87bc2a.chunk.css",
+    "static/js/main.d8b0ec10.chunk.js"
+  ]
+}
